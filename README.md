@@ -2,7 +2,7 @@
 <h1>React rout -ii cart page</h1>
 <img src="https://github.com/Satya12325/REact-rout-ii-cart/blob/master/screencapture-localhost-3001-2022-01-07-16_38_54.png"/>
 <img src="https://github.com/Satya12325/REact-rout-ii-cart/blob/master/screencapture-localhost-3001-2022-01-07-16_38_54.png"/>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
